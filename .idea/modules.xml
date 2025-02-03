@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/05.12_lu/05.12_lu.iml" filepath="$PROJECT_DIR$/05.12_lu/05.12_lu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05.12_lu1/05.12_lu1.iml" filepath="$PROJECT_DIR$/05.12_lu1/05.12_lu1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12/12.iml" filepath="$PROJECT_DIR$/12/12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14.11/14.11.iml" filepath="$PROJECT_DIR$/14.11/14.11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14_11_2zad/14_11_2zad.iml" filepath="$PROJECT_DIR$/14_11_2zad/14_11_2zad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21.11_pnpe/21.11_pnpe.iml" filepath="$PROJECT_DIR$/21.11_pnpe/21.11_pnpe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/28.11_pnpe_lu/28.11_pnpe_lu.iml" filepath="$PROJECT_DIR$/28.11_pnpe_lu/28.11_pnpe_lu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/31.10pnpe/31.10pnpe.iml" filepath="$PROJECT_DIR$/31.10pnpe/31.10pnpe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chess/Chess.iml" filepath="$PROJECT_DIR$/Chess/Chess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_server/java_server.iml" filepath="$PROJECT_DIR$/java_server/java_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/primeren_izpit_java/primeren_izpit_java.iml" filepath="$PROJECT_DIR$/primeren_izpit_java/primeren_izpit_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project1/project1.iml" filepath="$PROJECT_DIR$/project1/project1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src (1)/src (1).iml" filepath="$PROJECT_DIR$/src (1)/src (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testeri/testeri.iml" filepath="$PROJECT_DIR$/testeri/testeri.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testt/testt.iml" filepath="$PROJECT_DIR$/testt/testt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/try/try.iml" filepath="$PROJECT_DIR$/try/try.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zad/zad.iml" filepath="$PROJECT_DIR$/zad/zad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zad1/zad1.iml" filepath="$PROJECT_DIR$/zad1/zad1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zad16/zad16.iml" filepath="$PROJECT_DIR$/zad16/zad16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zad9/zad9.iml" filepath="$PROJECT_DIR$/zad9/zad9.iml" />
+    </modules>
+  </component>
+</project>
